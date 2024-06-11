@@ -6,9 +6,9 @@ Live Demo - [Click here](https://flappy-bird-playgame.netlify.app/)
 
 ## Screenshots
 
-<img src="/demo/demo1.png" width=400 />
 <img src="/demo/demo2.png" width=400 />
 <img src="/demo/demo3.png" width=400 />
+<img src="/demo/demo1.png" width=400 />
 
 ## Features
 
