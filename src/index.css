@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.game-over {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3rem;
+    color: red;
+  }
+  
+  .bg-position{
+    height: 600px;
+    width: 360px;
+  }
+
+  .head-width{
+    width: 360px;
+  }
+
+  .bg-bird{
+    background-image: url('./bird.png');
+  }
+
+  .bg-image{
+    background-image: url('./bg.png');
+  }
+
+  .bg-pipe{
+    background-image: url('./pipe.png');
+  }
