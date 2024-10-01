@@ -21,13 +21,13 @@
   }
 
   .bg-bird{
-    background-image: url('./bird.png');
+    background-image: url('/public/bird.png');
   }
 
   .bg-image{
-    background-image: url('./bg.png');
+    background-image: url('/public/bg.png');
   }
 
   .bg-pipe{
-    background-image: url('./pipe.png');
+    background-image: url('/public/pipe.png');
   }
